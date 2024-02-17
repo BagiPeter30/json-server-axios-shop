@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "elektromos kapu",
+      "price": "500000",
+      "img": "no-image.png"
+    },
+    {
+      "name": "gumiabroncs",
+      "id": "2",
+      "price": "45"
+    },
+    {
+      "name": "Kiszel Tünde naptár",
+      "id": "3",
+      "price": "200.000"
+    },
+    {
+      "id": "4",
+      "name": "Apple sajt",
+      "price": "11"
+    }
+  ],
+  "order": [
+    {
+      "id": "1",
+      "datum": "2024-01-31",
+      "pId": "1",
+      "quantity": "2",
+      "uId": "2"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "Looser",
+      "email": "cim@domain.hu",
+      "address": "Bújócska utca kavics után jobbra"
+    },
+    {
+      "id": "2",
+      "name": "Winner",
+      "email": "victory@domain.org",
+      "address": "Ahol megtalálsz"
+    }
+  ],
+  "cart": []
+}
